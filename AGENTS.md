@@ -1,3 +1,5 @@
+> **Precedence:** this file is subordinate to `docs/instructions.md`. When the two conflict, `docs/instructions.md` wins. Read it first.
+
 # Repository Guidelines
 
 - Repo: https://github.com/openclaw/openclaw
